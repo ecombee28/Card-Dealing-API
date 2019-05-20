@@ -12,3 +12,14 @@ To deal a card you enter the url http://combeecreation.com/DeckOfCards/public/ap
 ![](images/deal.png)
 Once done you will recieve a response with the card count, card, and link to card image:
 ![](images/dealShow.png)
+
+To shuffle the deck follow this url http://combeecreation.com/DeckOfCards/public/api/deck/{deck_id}/shuffle.
+![](images/shuffle.png)
+JSON response
+![](images/shuffleShow.png)
+
+Tho discard a card from the cards that have been dealt follow this url  
+http://combeecreation.com/DeckOfCards/public/api/deck/{deck_id}/discard/{dis_card}
+![](images/discard.png)
+JSON response
+![](images/discardShow.png)
