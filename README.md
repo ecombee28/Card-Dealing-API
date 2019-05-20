@@ -3,4 +3,4 @@ This is a Rest API that was developed in PHP with the Laravel framework. I uploa
 
 # How to use API
 To get started with the api you will need to visit:
-![Image of SignUp](https://github.com/ecombee28/Card-Dealing-API/blob/master/signUp/images/Screen%20Shot%202019-05-04%20at%204.55.18%20PM.png)
+![Image of SignUp](https://github.com/ecombee28/Card-Dealing-API/tree/master/images/login.png)
