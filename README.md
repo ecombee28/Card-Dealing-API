@@ -4,3 +4,5 @@ This is a Rest API that was developed in PHP with the Laravel framework. I uploa
 # How to use API
 To get started with the api you will need to visit:
 ![](images/login.png)
+You JSON response will look like this returning you unique deckId number.
+![](images/id.png)
