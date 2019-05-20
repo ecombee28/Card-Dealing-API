@@ -1,5 +1,8 @@
 <?php
-
+/*
+* Author: Eric Combee
+* Date: 5/15/2019
+*/
 use Illuminate\Http\Request;
 use App\MasterDeck;
 use phpDocumentor\Reflection\Types\Object_;
@@ -56,7 +59,7 @@ Route::get('/api/newdeck', function () {
 
 /*
 * This route deals a number {num} of cards. Once the card has been dealt
-* it is pu in the dealt pile and erased from the user_decks pile.
+* it is put in the dealt pile and erased from the user_decks pile.
 */
 Route::get('/api/deck/{deck_id}/deal/{num}', function ($deck_id, $num) {
 
