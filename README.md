@@ -48,4 +48,9 @@ Json response
 ## Start Over
 If you would like to clear the dealt pile and the discard pile and start with a new deck this url will do that for you.
 
-![](images/)
+![](images/startover.png)
+
+# Example of the API running
+If you would like to see the api in action I created a very simple application to show you the what you can do with this api. If you would like to see this api click here http://combeecreation.com/Card_Sample/index.php.
+
+I hope you have fun this api and create a lot of great applications with it.
