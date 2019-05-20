@@ -45,3 +45,7 @@ Json response
 
 ![](images/reorderShow.png)
 
+## Start Over
+If you would like to clear the dealt pile and the discard pile and start with a new deck this url will do that for you.
+
+![](images/)
