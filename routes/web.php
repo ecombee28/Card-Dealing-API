@@ -19,7 +19,7 @@ use phpDocumentor\Reflection\Types\Object_;
 */
 
 /*
-* This router must be called first to get your deck_id. With a deck_id
+* This route must be called first to get your deck_id. With out a deck_id
 * you are not able to use the rest of the api.
 */
 
