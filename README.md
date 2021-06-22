@@ -52,6 +52,6 @@ If you would like to clear the dealt pile and the discard pile and start with a 
 
 # Example of the API running
 If you would like to see the api in action I created a very simple application to show you the what you can do with this api. If you would like to see this api click here https://combeecreations.com/Card_Sample/index.php.
-<a href="https://combeecreations.com/Card_Sample/index.php" target="_blank">example</a>
+
 
 I hope you have fun this api and create a lot of great applications with it.
